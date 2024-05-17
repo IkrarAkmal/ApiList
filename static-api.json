@@ -1,0 +1,12 @@
+[
+    {"nama": "R1", "merk": "Yamaha", "imageId": "r1"},
+    {"nama": "R6", "merk": "Yamaha", "imageId": "r6"},
+    {"nama": "GSX-R1000", "merk": "Suzuki", "imageId": "gsxr1000"},
+    {"nama": "GSX-R600", "merk": "Suzuki", "imageId": "gsxr600"},
+    {"nama": "CBR1000RR", "merk": "Honda", "imageId": "cbr1000rr"},
+    {"nama": "CBR650R", "merk": "Honda", "imageId": "cbr650r"},
+    {"nama": "H2", "merk": "Kawasaski", "imageId": "h2"},
+    {"nama": "ZX-10R", "merk": "Kawasaki", "imageId": "zx10r"},
+    {"nama": "RSV4", "merk": "Aprilia", "imageId": "rsv4"},
+    {"nama": "RS660", "merk": "Aprilia", "imageId": "rs660"}
+]
